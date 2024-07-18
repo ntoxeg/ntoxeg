@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on investigating new ways of implementing a Non-Axiomatic Reasoning System with deep Artificial Neural Network integration.
 - 👯 I’m looking to collaborate on combining symbolic and sub-symbolic computational intelligence techniques.
 
-[![ntoxeg's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntoxeg&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![ntoxeg's GitHub stats](https://github-readme-stats-ten-rho-45.vercel.app/api?username=ntoxeg&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
