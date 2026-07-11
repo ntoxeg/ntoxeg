@@ -1,11 +1,12 @@
 ### Welcome to ntoxeg's profile
 
+*(kind of outdated, things are shifting around currently)*
+
 I explore the frontier between **symbolic reasoning** and **deep learning**, working toward more general and interpretable forms of artificial intelligence. My current focus is on working with **non-axiomatic reasoning systems (NARS)** — bridging logic, learning, and resource-bounded cognition.
 
 #### 🧠 Core Work
 
 * **Reasoning Systems:** Built experiments like **NARCA** — a NARS-driven game agent showcased at *AGI-22* — and **NARpyn**, a Python API that makes NARS For Applications easier to use.
-* **Julia for AI:** I want to see how far can I go with Julia-based implementations, like **NACE.jl** Julia provides easy performance gains over Python and other useful features.
 
 #### 🎯 Goals
 
